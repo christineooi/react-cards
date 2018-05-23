@@ -35,8 +35,8 @@ const App = () => (
 
     <CardGroup>
         <Card description="Trial" icon="fa-thumbs-o-up" price="Free!" />
-        <Card description="Basic tier" icon="fa-trophy" hint="(most popular)" price="$10.00" />
-        <Card description="Advanced tier" icon="fa-bolt" hint="(only for enterprise-level professionals)" price="$6,000.00" />
+        <Card description="Basic tier" icon="fa-trophy" hint="most popular" price="$10.00" />
+        <Card description="Advanced tier" icon="fa-bolt" hint="only for enterprise-level professionals" price="$6,000.00" />
     </CardGroup>
 
 );
